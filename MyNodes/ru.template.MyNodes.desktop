@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.template.MyNodes
+Exec=/usr/bin/ru.template.MyNodes
+Name=MyNodes
+Name[ru]=Мои Заметки
+
+[X-Application]
+Permissions=
+OrganizationName=ru.template
+ApplicationName=MyNodes
+ExecDBus=/usr/bin/ru.template.MyNodes
